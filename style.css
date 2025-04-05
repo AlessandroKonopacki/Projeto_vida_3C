@@ -51,10 +51,11 @@ body {
     border-right: 2px solid var(--botao-ativo);
     border-top: none;
 }
-
+//Primeiro botão redondo
 .botao:first-child {
     border-radius: 40px 40px 0 0;
 }
+//Ultimo botão redondo
 .botao:last-child{
     border-radius: 0  0 40px 40px;
 }
